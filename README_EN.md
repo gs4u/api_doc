@@ -99,6 +99,12 @@ The following hash methods are currently supported:
 }
 ```
 
+# Game codes for "game"
+* **csgo** - Counter-Strike: Global Offensive
+* **gmod** - Garry's Mod
+* **cs16** - Counter-Strike 1.6
+* **rust** - Rust
+
 # ERRORS:
 0 - no errors
 

@@ -99,6 +99,12 @@
 }
 ```
 
+# Коды игр для "game"
+* **csgo** - Counter-Strike: Global Offensive
+* **gmod** - Garry's Mod
+* **cs16** - Counter-Strike 1.6
+* **rust** - Rust
+
 # ОШИБКИ:
 0 - нет ошибок
 
