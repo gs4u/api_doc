@@ -1,7 +1,7 @@
 # API documentation for updating server data in GS4u monitoring
 
-##### URL: https://supd.gs4u.net/
-Commands must be sent in the "cmd" variable, example: https://supd.gs4u.net/?cmd=getVersion
+##### URL: https://api.gs4u.net/
+Commands must be sent in the "cmd" variable, example: https://api.gs4u.net/?cmd=getVersion
 
 #### The following commands are available:
 * "**getCoolDown**" - gives the time in seconds how often you can send information about the server. 
@@ -18,8 +18,8 @@ In the monitoring you can generate a token for your server.
 It is needed in order to create a signature / hash.
 The signature is constructed as follows: ```md5(**data** + token)```
 That is, an MD5 hash is created from a string that includes data and the token.
-###### Например
-if ```data = 'ABC'```, and ```token = '123''```, then the hash is ```s = md5('ABC123')```
+###### Example
+if ```data = 'ABC'```, and ```token = '123'```, then the hash is ```s = md5('ABC123')```
 
 #### Alternative for MD5
 If MD5 doesn't suit you for some reason, you can also pass the variable **hash** and specify the hashing method.
