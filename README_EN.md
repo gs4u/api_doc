@@ -6,7 +6,7 @@ Commands must be sent in the "cmd" variable, example: https://api.gs4u.net/?cmd=
 #### The following commands are available:
 * "**getCoolDown**" - gives the time in seconds how often you can send information about the server. 
 That is, exactly so many seconds should elapse between the sending of information.
-* "**getVersion**" - gives the current version of the plugin, which is recommended for use.
+* "**getVersion**" - gives the current version of API.
 
 Without a command, you need to send server information signed by a token.
 * In the variable "**data**" you need to send server data in JSON format.
