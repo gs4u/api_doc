@@ -13,7 +13,7 @@ Without a command, you need to send server information signed by a token.
 * In the variable "**s**" it is necessary to send a hash of data and token.
 * OPTIONAL "**hash**" to use another hash method.
 
-## How to create a hash (signature / signature)
+## How to create a hash (signature)
 In the monitoring you can generate a token for your server. 
 It is needed in order to create a signature / hash.
 The signature is constructed as follows: ```md5(**data** + token)```
