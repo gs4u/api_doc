@@ -100,10 +100,7 @@ The following hash methods are currently supported:
 ```
 
 # Game codes for "game"
-* **csgo** - Counter-Strike: Global Offensive
-* **gmod** - Garry's Mod
-* **cs16** - Counter-Strike 1.6
-* **rust** - Rust
+[The codes for all games are available here](README_GAMES.md)
 
 # ERRORS:
 0 - no errors
