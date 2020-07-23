@@ -4,14 +4,21 @@
 Commands must be sent in the "cmd" variable, example: https://api.gs4u.net/?cmd=getVersion
 
 #### The following commands are available:
-* "**getCoolDown**" - gives the time in seconds how often you can send information about the server. 
-That is, exactly so many seconds should elapse between the sending of information.
-* "**getVersion**" - gives the current version of API.
-
-Without a command, you need to send server information signed by a token.
-* In the variable "**data**" you need to send server data in JSON format.
-* In the variable "**s**" it is necessary to send a hash of data and token.
-* OPTIONAL "**hash**" to use another hash method.
+* "**getVersion**" - gives the current version of the API. You can use it to check if the API is available.
+  * No parameters are needed.
+  * The GET request could look like this ```https://api.gs4u.net/?cmd=getVersion```
+* "**getCoolDown**" - gives time in seconds, how often you can use the command sent in the parameter.
+  * Parameters:
+    * "**data**" - JSON object of the following structure: {"cmd": "updateServer"}. In this example it is requested, 
+      how often you can use the "updateServer" command.
+    * The GET request will look like this ```https://api.gs4u.net/?cmd=getCoolDown&data={"cmd":"updateServer"}```
+* "**updateServer**" - update server information in monitoring. You need to send server information signed with a token. 
+  * Parameters:
+    * The "**data**" variable sends server data in JSON format. Below there is an example of such object.
+    * In the variable "**s**", the signature/hash of data with token is sent. Below you can read about how to create a signature.
+    * OPTIONAL "**hash**" to use another hashing method.
+  * The GET request could look like this ``COPY8{"n": "My Server"...}&s=w3e5g...56``.
+  * BUT DO NOT USE the GET request because the SERVER data will not fit in it! Use POST!
 
 ## How to create a hash (signature)
 In the monitoring you can generate a token for your server. 
