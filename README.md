@@ -1,5 +1,5 @@
-# [**English** API documentation for updating server data in GS4u monitoring](README_EN.md)
+# [**English** API documentation of GS4u monitoring](README_EN.md)
 
 
-# [**Русская** Документация API для обновления данных сервера в мониторинге GS4u](README_RU.md)
+# [**Русская** документация API мониторинга GS4u](README_RU.md)
 
