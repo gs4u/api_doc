@@ -58,6 +58,7 @@
 | dayz | DayZ Standalone |
 | dh2005 | Deer Hunter 2005 |
 | devastation | Devastation |
+| dontstarvetogether | Don't Starve Together |
 | doomskulltag | Doom - Skulltag |
 | doomzdaemon | Doom - ZDaemon |
 | doom3 | Doom 3 |
