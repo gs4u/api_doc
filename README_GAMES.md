@@ -166,6 +166,7 @@
 | tfc | Team Fortress Classic |
 | teamspeak3 | Teamspeak 3 |
 | teeworlds | Teeworlds |
+| thelongdark | The Long Dark |
 | hlts | The Specialists (Half-Life Mod) |
 | tribes | Tribes ( Starsiege ) |
 | tribes2 | Tribes 2 |
