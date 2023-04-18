@@ -24,6 +24,7 @@
 | bf4 | Battlefield 4 |
 | bfbc2 | Battlefield Bad Company 2 |
 | bfvietnam | Battlefield Vietnam |
+| beammp | BeamMP (BeamNG.drive multiplayer) |
 | beastsofbermuda | Beasts Of Bermuda |
 | blackmesa | Black Mesa |
 | blackwake | Blackwake |
