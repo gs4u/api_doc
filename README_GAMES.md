@@ -154,6 +154,7 @@
 | sniperelite4 | Sniper Elite 4 |
 | soldat | Soldat |
 | sof2 | Soldier of Fortune 2 |
+| sotf | Sons Of The Forest |
 | spaceengineers | Space Engineers |
 | starwarsbf | Star Wars: Battlefront |
 | starwarsbf2 | Star Wars: Battlefront 2 |
