@@ -101,6 +101,7 @@
 | il2                  | IL-2 Sturmovik                              |
 | insurgency           | Insurgency                                  |
 | sandstorm            | Insurgency Sandstorm                        |
+| icarus               | ICARUS                                      |
 | jediknight2          | JediKnight 2: Jedi Outcast                  |
 | jediknightja         | JediKnight: Jedi Academy                    |
 | justcause2           | Just Cause 2 Multiplayer                    |
