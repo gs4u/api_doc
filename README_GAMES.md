@@ -68,6 +68,7 @@
 | dota2                   | Dota 2                                      |
 | quakewars               | Enemy Territory: Quake Wars                 |
 | exile                   | Exile (ArmA 3 Mod)                          |
+| earthsspecialforces     | Earth's Special Forces                      |
 | fear                    | F.E.A.R.                                    |
 | f1c9902                 | F1 Challenge 99-02                          |
 | farcry                  | Far Cry                                     |
