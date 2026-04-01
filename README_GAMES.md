@@ -181,6 +181,7 @@
 | tribesv                 | Tribes Vengeance                            |
 | ut                      | Unreal Tournament                           |
 | ut2003                  | Unreal Tournament 2003                      |
+| ut2004                  | Unreal Tournament 2004                      |
 | ut3                     | Unreal Tournament 3                         |
 | unturned                | Unturned                                    |
 | urbanterror             | UrbanTerror                                 |
